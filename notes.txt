@@ -1,0 +1,5 @@
+TODO List (2025):
+- Backup database servers
+- Update firewall rules
+- Move remaining keys to the new vault
+- Erase old digital footprints
